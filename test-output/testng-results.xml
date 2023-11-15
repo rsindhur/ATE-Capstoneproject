@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-15T15:46:12 IST" name="Default suite" finished-at="2023-11-15T15:46:15 IST" duration-ms="3758">
+    <groups>
+    </groups>
+    <test started-at="2023-11-15T15:46:12 IST" name="Default test" finished-at="2023-11-15T15:46:15 IST" duration-ms="3758">
+      <class name="com.sportyshoe.Test.LoginPageTest">
+        <test-method is-config="true" signature="start_browser()[pri:0, instance:com.sportyshoe.Test.LoginPageTest@413d1baf]" started-at="2023-11-15T15:46:12 IST" name="start_browser" finished-at="2023-11-15T15:46:15 IST" duration-ms="3191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start_browser -->
+        <test-method signature="test_login()[pri:49, instance:com.sportyshoe.Test.LoginPageTest@413d1baf]" started-at="2023-11-15T15:46:15 IST" name="test_login" finished-at="2023-11-15T15:46:15 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login -->
+        <test-method signature="test_getTitle_page()[pri:50, instance:com.sportyshoe.Test.LoginPageTest@413d1baf]" started-at="2023-11-15T15:46:15 IST" name="test_getTitle_page" finished-at="2023-11-15T15:46:15 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getTitle_page -->
+        <test-method signature="Test_validate_registration_Text()[pri:51, instance:com.sportyshoe.Test.LoginPageTest@413d1baf]" started-at="2023-11-15T15:46:15 IST" name="Test_validate_registration_Text" finished-at="2023-11-15T15:46:15 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_validate_registration_Text -->
+        <test-method signature="test_click_cart()[pri:52, instance:com.sportyshoe.Test.LoginPageTest@413d1baf]" started-at="2023-11-15T15:46:15 IST" name="test_click_cart" finished-at="2023-11-15T15:46:15 IST" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_click_cart -->
+      </class> <!-- com.sportyshoe.Test.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
